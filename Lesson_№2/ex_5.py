@@ -1,5 +1,5 @@
 from random import randint
-from re import A
+
 
 def create_list():
     length = int(input('Введите длину списка: '))
